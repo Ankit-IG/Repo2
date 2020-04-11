@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 58E7-2089
+
+ Directory of C:\Users\Dell\Desktop\GIT Project
+
+11-04-2020  13:01    <DIR>          .
+11-04-2020  13:01    <DIR>          ..
+11-04-2020  13:01                 0 test1.txt
+11-04-2020  13:01               341 text1.txt
+               2 File(s)            341 bytes
+               2 Dir(s)  311,155,851,264 bytes free
